@@ -15,7 +15,7 @@ I'm a 24-year-old Software Engineer with a passion for creating innovative solut
   * Two years of experience as a Software Engineer, working on various projects using .NET, Node, TypeScript, React, and Next.js.
 
 ## 🌱 I'm Currently Learning
-I am currently learning and using Next.JS and Node.JS in a client project in the power industry 🤫
+I am currently learning and using React and Node.JS in a client project that uses AI 🤫
 
 ## 📫 How to Reach Me
 Feel free to get in touch with me through the following channels:
