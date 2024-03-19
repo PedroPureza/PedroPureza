@@ -4,7 +4,6 @@
 I'm a 24-year-old Software Engineer with a passion for creating innovative solutions and tackling complex challenges. Currently, I have two years of experience working at Poatek, where I focus on delivering high-quality software for a diverse range of clients.
 
 ## 🔧 Technologies and Skills
-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 - ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -12,10 +11,10 @@ I'm a 24-year-old Software Engineer with a passion for creating innovative solut
 
 ## 👨‍💻 Previous Work Experience
 * **Software Engineer** - _Poatek_
-  * Two years of experience as a Software Engineer, working on various projects using .NET, Node, TypeScript, React, and Next.js.
+  * Two years of experience as a Software Engineer, working on various projects using Nest, Node, TypeScript, React, and Next.js.
 
 ## 🌱 I'm Currently Learning
-I am currently learning and using React and Node.JS in a client project that uses AI 🤫
+I am currently learning and using Next and Node.JS in a client project that uses AI 🤫
 
 ## 📫 How to Reach Me
 Feel free to get in touch with me through the following channels:
