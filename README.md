@@ -32,8 +32,10 @@ I'm a 24-year-old Software Engineer with a passion for creating innovative solut
 
 
 ## 👨‍💻 Previous Work Experience
+* **Software Engineer Intern** - _Poatek_
+  * One and a half year ( june 2022- december 2023 ).
 * **Software Engineer** - _Poatek_
-  * Two years of experience as a Software Engineer, working on various projects using Nest, Node, TypeScript, React, and Next.js.
+  * ( jan 2024 - present ).
 
 ## 🌱 I'm Currently Learning
 I am currently learning and using Next and Node.JS in a client project that uses AI 🤫
