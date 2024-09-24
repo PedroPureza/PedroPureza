@@ -37,8 +37,6 @@ I'm a 24-year-old Software Engineer with a passion for creating innovative solut
 * **Software Engineer** - _Poatek_
   * ( jan 2024 - present ).
 
-## 🌱 I'm Currently Learning
-I am currently learning and using Next and Node.JS in a client project that uses AI 🤫
 
 ## 📫 How to Reach Me
 Feel free to get in touch with me through the following channels:
