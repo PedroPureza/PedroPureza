@@ -1,7 +1,7 @@
 # Hi there, I'm Pedro Pureza! 👋
 
 ## 🚀 About Me
-I'm a 24-year-old Software Engineer with a passion for creating innovative solutions and tackling complex challenges. Currently, I have two years of experience working at Poatek, where I focus on delivering high-quality software for a diverse range of clients.
+I'm a 25-year-old Software Engineer with a passion for creating innovative solutions and tackling complex challenges. Currently, I have two years of experience working at Poatek, where I focus on delivering high-quality software for a diverse range of clients.
 
 ## 🔧 Technologies and Skills
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
